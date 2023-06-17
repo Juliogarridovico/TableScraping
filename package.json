@@ -1,0 +1,29 @@
+{
+  "name": "tablescraping",
+  "version": "1.0.0",
+  "description": "scraping table",
+  "main": "portapapeles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juliogarridovico/TableScraping.git"
+  },
+  "author": "Julio Garrido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juliogarridovico/TableScraping/issues"
+  },
+  "homepage": "https://github.com/Juliogarridovico/TableScraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "clipboardy": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.1",
+    "path": "^0.12.7",
+    "stream": "^0.0.2",
+    "url": "^0.11.1",
+    "util": "^0.12.5"
+  }
+}
